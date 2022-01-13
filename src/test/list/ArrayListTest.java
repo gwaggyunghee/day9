@@ -17,7 +17,7 @@ public class ArrayListTest {
 			
 			System.out.print("성명을 계속 입력하시겠습니까?(y/n)");
 			String msg=s.nextLine();
-			if(msg.equals("n")||msg.contentEquals("no))"
+			if(msg.equals("n")||msg.contentEquals("no"))
 					break;
 					
 			
